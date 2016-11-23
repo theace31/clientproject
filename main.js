@@ -8,6 +8,10 @@ var price;
 var quantity;
 var total;
 
+function functionName()
+{
+      console.log("hello world");
+}
 
 
 price = 5;
